@@ -1,3 +1,7 @@
 Ik heb hier tekst //Paul
+<<<<<<< HEAD
+git_samenwerk_team here we go //P
+=======
 git_samemwerk_team
 En ik hier //Aniek
+>>>>>>> main
